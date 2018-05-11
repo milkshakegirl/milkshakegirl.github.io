@@ -3837,6 +3837,7 @@ input[type="button"].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  color: #fff;
 }
 
 .nav-link {
@@ -3846,6 +3847,7 @@ input[type="button"].btn-block {
 
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
+  color: #000000;
 }
 
 .nav-link.disabled {
@@ -3867,7 +3869,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #e9ecef #e9ecef #dee2e6;
+  border-color: #fff #fff #fff;
 }
 
 .nav-tabs .nav-link.disabled {
